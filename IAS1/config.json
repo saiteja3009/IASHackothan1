@@ -1,0 +1,17 @@
+{
+	"1" : {
+		"name" : "sensor1",
+		"type" : "random",
+		"api" : "http://localhost:8080/sensor1"
+	},
+	"2" : {
+		"name" : "sensor2",
+		"type" : "random",
+		"api" : "http://localhost:8080/sensor2"
+	},
+	"3" : {
+		"name" : "sensor3",
+		"type" : "random",
+		"api" : "http://localhost:8080/sensor3"
+	}
+}
